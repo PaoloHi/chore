@@ -7,5 +7,6 @@
 - [ ] repara zapato
 - [ ] configurar raspberry pi
 - [ ] configurar el ingress existente
-- [ ]  configurar vim 
-
+- [ ]  configurar vim
+- [ ]  corregir las llaves de las apis en k8s como secrets
+- [ ]  
