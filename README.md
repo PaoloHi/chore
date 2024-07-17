@@ -6,4 +6,6 @@
 - [ ] configuarar Argo
 - [ ] repara zapato
 - [ ] configurar raspberry pi
+- [ ] configurar el ingress existente
+- [ ] 
 
