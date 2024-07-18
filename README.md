@@ -9,4 +9,5 @@
 - [ ] configurar el ingress existente
 - [ ]  configurar vim
 - [ ]  corregir las llaves de las apis en k8s como secrets
+- [ ]  vaciar mi drive
 - [ ]  
